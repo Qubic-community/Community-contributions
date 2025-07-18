@@ -1,7 +1,7 @@
 ---
 title: CCF Proposal – Qubic Community Rewards 2025
 date: 2025-07-18
-Item	Detail
+
 Total Funding Requested	21.5 billion QUBIC (one time distribution)
 Wallet : QAUTBTFQHFCMQFSWMBXSMDONEMEDRPFDPWFYBCUWXERDKJBKEKBBQHDDOGKG
 Distribution Categories	Community –Marketing - Tech  
